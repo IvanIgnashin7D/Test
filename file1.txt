@@ -1,3 +1,1 @@
-This is text if the first file.
-
-Hello world!
+This is updated file1.
